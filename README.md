@@ -1,1 +1,2 @@
-# File-encrypter-decrypter
+# Automated file encrypter and decrypter
+
